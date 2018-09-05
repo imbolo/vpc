@@ -83,8 +83,7 @@
 -   Large.5： 5000 Mbps
 
 -   Xlarge.1：10000 Mbps
-
-
+当Role为AcceptingSide(连接接收端)时，Spec应设置为 Negative
  |
 |OppositeRegionId|String|是| 连接接收端所在的地域。
 
